@@ -1,0 +1,33 @@
+/* XPM */
+static char coin_3[] = {
+/* columns rows colors chars-per-pixel */
+"24 24 3 1 ",
+"  c None",
+"o c white",
+". c black",
+/* pixels */
+"                        "
+"                        "
+"                        "
+"                        "
+"          oooo          " 
+"          oooo          "
+"        oooooooo        "
+"        oooooooo        "
+"        oooooooo        "
+"        oooooooo        "
+"        oooooooo        "
+"        oooooooo        "
+"        oooooooo        "
+"        oooooooo        "
+"        oooooooo        "
+"        oooooooo        "
+"        oooooooo        "
+"        oooooooo        "
+"          oooo          "
+"          oooo          "
+"                        "
+"                        "
+"                        "
+"                        "
+};

@@ -1,0 +1,33 @@
+/* XPM */
+static char player_move[] = {
+/* columns rows colors chars-per-pixel */
+"24 24 2 1 ",
+"  c None",
+"X c #175EFE",
+". c white",
+/* pixels */                                  
+"                        "
+"                        "
+"                        "
+"                        "
+"                        "
+"                        "
+"    XXXXXXXX  XXXXXX    "
+"    XXXXXXXX  XXXXXX    "
+"      XXXXXXXXXXXXXX    "
+"      XXXXXXXXXXXXXX    "
+"        XXXX..XX..XX    "
+"        XXXX..XX..XX    "
+"        XXXX..XX..XX    "
+"        XXXX..XX..XX    "
+"      XXXXXXXXXXXX      "
+"      XXXXXXXXXXXX      "
+"    XXXXXXXX    XXXX    "
+"    XXXXXXXX    XXXX    "
+"                  XX    "
+"                  XX    "
+"                        "
+"                        "
+"                        "
+"                        "
+};                              

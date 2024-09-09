@@ -1,0 +1,34 @@
+/* XPM */
+static char enemy_1[] = {
+/* columns rows colors chars-per-pixel */
+"24 24 4 1 ",
+"  c None",
+". c black",
+"X c #175EFE",
+"o c white",
+/* pixels */
+"                        "
+"                        "
+"        XX  XX    XX    "
+"        XX  XX    XX    "
+"        XX  XX    XX    "
+"       XX    ooXX  XX   "
+"       XX    ooXX  XX   "
+"      XXoo    XX  XXXX  "
+"      XXoo    XX  XXXX  "
+"    XXXX  XX  XX  ooXX  "
+"    XXXX  XX  XX  ooXX  "
+"   XXoo    XXooXXooXX   "
+"   XXoo    XXooXXooXX   "
+"  XXXXoo    XXXXooooXX  "
+"  XXXXoo    XXXXooooXX  "
+"  XXooooooXXooXXXXooXX  "
+"  XXooooooXXooXXXXooXX  "
+"  ooooooXXXXoooooooooo  "
+"  ooooooXXXXoooooooooo  "
+"  oo    oooo  oooo  oo  "
+"  oo    oooo  oooo  oo  "
+" oo   oooooo  oo  oooo  "
+" o oooo oooooooooo oo   "
+"                        "
+};

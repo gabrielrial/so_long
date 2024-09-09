@@ -1,0 +1,36 @@
+/* XPM */
+static char player_idle[] = {
+/* columns rows colors chars-per-pixel */
+"24 24 2 1 ",
+"  c None",
+"X c #175EFE",
+". c white",
+/* pixels */                                  
+"                        "
+"                        "
+"                        "
+"                        "
+"                        "
+"                        "
+"                        "                        
+"                        "
+"                        "
+"                        "
+"       XXXX    XX       "
+"        XXXX    XX      "
+"    XXXX  XXXX  XXXX    "
+"    XXXX  XXXX  XXXX    "
+"      XXXXXXXXXXXXXX    "
+"      XXXXXXXXXXXXXX    "
+"    XXXXXX....XX..XX    "
+"    XXXXXX....XX..XX    "
+"    XX  XXXXXXXXXXXX    "
+"    XX  XXXXXXXXXXXX    "
+"                        "
+"                        "
+"                        "
+"                        "
+};                              
+
+
+

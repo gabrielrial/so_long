@@ -1,0 +1,40 @@
+/* XPM */
+static char portal[] = {
+/* columns rows colors chars-per-pixel */
+"32 32 2 1 ",
+"  c None",
+"o c white",
+/* pixels */
+"                                "
+"                                "
+"                                "
+"                                "
+"          oooooooooooo          "
+"          oooooooooooo          "
+"        oooo        oooo        "
+"        oooo        oooo        "
+"      oooo            oooo      "
+"      oooo            oooo      "
+"      oooo            oooo      "
+"      oooo            oooo      "
+"      oooo            oooo      "
+"      oooo            oooo      "
+"      oooo            oooo      "
+"      oooo            oooo      "
+"      oooo            oooo      "
+"      oooo            oooo      "
+"      oooo            oooo      "
+"      oooo            oooo      "
+"      oooo            oooo      "
+"      oooo            oooo      "
+"      oooo            oooo      "
+"      oooo            oooo      "
+"      oooo            oooo      "
+"      oooo            oooo      "
+"      oooo            oooo      "
+"      oooo            oooo      "
+"                                "
+"                                "
+"                                "
+"                                "
+};

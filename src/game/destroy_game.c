@@ -6,7 +6,7 @@
 /*   By: grial <grial@student.42berlin.de>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/08/27 17:36:54 by grial             #+#    #+#             */
-/*   Updated: 2024/09/08 14:44:57 by grial            ###   ########.fr       */
+/*   Updated: 2024/09/10 14:48:08 by grial            ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -25,9 +25,16 @@ int	destroy_game(t_game *game)
 	if (game->enemy)
 		free_list(game->enemy);
 	free_img(game);
+	if (game->mlx_ptr)
+	{
+		mlx_destroy_display(game->mlx_ptr);
+		free(game->mlx_ptr);
+		game->mlx_ptr = NULL;
+	}
 	if (game->map.map)
 		free_map(game->map.map);
 	free(game);
+	game = NULL;
 	exit(0);
 	return (0);
 }
